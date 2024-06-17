@@ -2,9 +2,9 @@
 
 ## Project Images
 
-![alt text](https://github.com/zediogoribeiro/significa-challenge/blob/main/movie-challange/Home_emptystate.png)
-![alt text](https://github.com/zediogoribeiro/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/zediogoribeiro/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Home Empty State](https://github.com/zediogoribeiro/significa-challenge/blob/main/movie-challange/Home_emptystate.png)
+![Home Batman Search](https://github.com/zediogoribeiro/significa-challenge/blob/main/movie-challange/Home_BatmanSearch.png)
+![Batman Details Page](https://github.com/zediogoribeiro/significa-challenge/blob/main/movie-challange/Batman_DetailsPage.png)
 
 ## Installation
 
