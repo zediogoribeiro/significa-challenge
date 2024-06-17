@@ -1,0 +1,37 @@
+.notFoundWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.notFoundWrapper img {
+    height: 30vh;
+}
+
+.notFoundWrapper h2 {
+    font-size: 2rem;
+    font-weight: 100;
+    padding: 1rem;
+    text-align: center;
+}
+
+.searchNotFound {
+    text-decoration: underline;
+    color: var(--color-secondary);
+}
+
+.hideDetails {
+    display: none;
+}
+
+@media screen and (min-width: 600px) {
+    .notFoundWrapper img {
+        height: 40vh;
+    }
+
+    .notFoundWrapper h2 {
+        font-size: 4rem;
+    }
+
+}

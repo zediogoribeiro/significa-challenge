@@ -1,0 +1,54 @@
+.cardsContainer {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(10rem, 25rem));
+    place-content: space-between space-evenly;
+    padding: 4rem 0;
+    gap: 4rem 2rem;
+    align-items: start;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    background-color: transparent;
+    gap: 1rem;
+    border-radius: 0.8rem;
+    position: relative; 
+    transition: all 300ms linear;
+    color: var(--color-text-secondary);
+}
+
+.card:hover {
+    transform: scale(1.03);
+    background-color: var(--color-secondary);
+}
+
+.card:hover .card-title {
+    color: var(--color-text-secondary); 
+}
+
+.card-image {
+    border-radius: 0.8rem;
+    height: 38rem;
+    object-fit: cover;
+    box-shadow: 0 2rem 5rem var(--shadow-color);
+    transition: all 100ms linear;
+}
+
+.card-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    font-size: 1.6rem;
+    text-align: center;
+    max-width: 310px;
+    color: var(--color-text);
+}
+
+.buttonWrapper {
+    display: flex;
+    justify-content: center;
+    padding: 3rem 0;
+}

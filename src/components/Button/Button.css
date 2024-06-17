@@ -1,0 +1,20 @@
+.button {
+    background-color: var(--color-secondary);
+    color: var(--color-text-secondary);
+    border: none;
+    padding: 2rem 6rem;
+    border-radius: 1.5rem;
+    font-size: 1.6rem;
+    font-weight: 300;
+    box-shadow: 0 1rem 5rem var(--shadow-color);
+    border: 1px solid var(--color-secondary);
+    transition: all .1s linear;
+}
+
+.button:hover {
+    transform: translateY(-5px);
+    background-color: transparent;
+    color: var(--color-text);
+    box-shadow: none;
+}
+
