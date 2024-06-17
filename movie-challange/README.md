@@ -1,8 +1,8 @@
-# Find me a movie - Significa Challange
+# Find me a movie w/ReactJS - Significa Challange
 
 ## Project Images
 
-![alt text](https://github.com/zediogoribeiro/significa-challenge/movie-challange/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/zediogoribeiro/significa-challenge/blob/main/movie-challange/Home_emptystate.png)
 ![alt text](https://github.com/zediogoribeiro/[reponame]/blob/[branch]/image.jpg?raw=true)
 ![alt text](https://github.com/zediogoribeiro/[reponame]/blob/[branch]/image.jpg?raw=true)
 
