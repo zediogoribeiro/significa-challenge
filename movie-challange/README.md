@@ -20,7 +20,6 @@ To install the necessary dependencies, you need to have [Node.js](https://nodejs
 
    ```
    cd movie-chanllange
-
    ```
 
 3. Install the dependencies:
