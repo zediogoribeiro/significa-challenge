@@ -1,5 +1,11 @@
 # Find me a movie - Significa Challange
 
+## Project Images
+
+![alt text](https://github.com/zediogoribeiro/significa-challenge/movie-challange/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/zediogoribeiro/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/zediogoribeiro/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 ## Installation
 
 To install the necessary dependencies, you need to have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) (Node Package Manager) installed on your machine.
@@ -12,9 +18,8 @@ To install the necessary dependencies, you need to have [Node.js](https://nodejs
 
 2. Navigate to the project directory:
 
-   cd your-repo-name
-
    ```
+   cd movie-chanllange
 
    ```
 
