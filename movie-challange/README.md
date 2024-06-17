@@ -13,7 +13,7 @@ To install the necessary dependencies, you need to have [Node.js](https://nodejs
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/zediogoribeiro/your-repo-name.git
+   git clone git@github.com:zediogoribeiro/significa-challenge.git
    ```
 
 2. Navigate to the project directory:
